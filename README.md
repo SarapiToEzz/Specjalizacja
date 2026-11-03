@@ -1,6 +1,6 @@
 # Specjalizacja
 Szymon Sobek 5Ti
 
-Euklides.py - algorytm wyznaczający największy wspólny dzielnik
+euklides.py - algorytm wyznaczający największy wspólny dzielnik <br>
 euklidesPrompt.py - użytkownik ma możliwość wprowadzenia swoich liczb
 
