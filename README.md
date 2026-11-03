@@ -1,2 +1,3 @@
 # Specjalizacja
-Projekty do szkoły
+Szymon Sobek 5Ti
+
